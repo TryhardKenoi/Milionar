@@ -1,4 +1,4 @@
-# DaFuqson WEB
+# Dafuqson WEB
 
 - Autor: Lukáš Šmach
 - Třída a Skupina: 2.B2

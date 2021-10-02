@@ -1,0 +1,177 @@
+
+main{
+    min-height: calc(100vh - 56px - 59px );
+}
+
+.wh{
+   width: 550px; 
+   height: 312px;
+}
+body{
+  background-image: url("../images/Back.png");
+}
+
+.nadpis
+{
+    width: 450px;
+    text-align: center;
+    margin: 0 auto;
+}
+@media screen and (max-width:1140px) {
+  .nadpis
+  {
+      width: 350px;
+      text-align: center;
+      margin: 0 auto;
+      font-size: 1.9em;
+  }
+}
+@media screen and (max-width:768px) {
+    .nadpis
+    {
+        width: 350px;
+        text-align: center;
+        margin: 0 auto;
+        font-size: 1.9em;
+    }
+}
+@media screen and (max-width:590px) {
+    .nadpis
+    {
+        width: 350px;
+        text-align: center;
+        margin: 0 auto;
+        font-size: 1.8em;
+    }
+}
+
+.navbarColor{
+    background-color:	red !important;
+ 
+}
+.navbarColorCav{
+  background-color: green !important;
+
+}
+.navbarColorTwitch{
+  background-color: blue !important;
+
+}
+.navbarColorRec{
+  background-color: grey !important;
+
+}
+
+.twitchColor{
+    background-color:  #6441a5 !important;
+
+    
+}
+.ytColor{
+    background-color:  #c4302b !important;
+
+    
+}
+.fbColor{
+    background-color: #4267B2 !important;
+
+}
+.whiteColor{
+    color: white;
+}
+
+.greyColor{
+  background-color: #868686;
+}
+
+.Myimg-thumbnail{
+ 
+  padding:.25rem;
+  background-color:darkred;
+  border:3px solid #dee2e6;
+  border-radius:.25rem;
+  max-width:100%;
+  height:auto !important;
+}
+
+.insta-icon {
+    position: relative;
+    width: 36px;
+    height: 36px;
+    border-radius: 20%;
+    background: radial-gradient(circle at 33% 100%, #fed373 4%, #f15245 30%, #d92e7f 62%, #9b36b7 85%, #515ecf)
+  }
+
+  .insta-icon:after,
+  .insta-icon:before {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 25px;
+    height: 25px;
+    border: 2px solid #fff;
+    transform: translate(-50%, -50%);
+    content: ''
+  }
+  .insta-icon:before {
+    border-radius: 20%
+  }
+  .insta-icon:after {
+    width: 11px;
+    height: 11px;
+    border-radius: 50%
+  }
+ 
+  a:link {
+    color: white !important;
+    font-weight: bold;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: white !important;
+    font-weight: bold;
+    
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: black !important;
+    font-weight: bold;
+
+  }
+  
+  /* selected link */
+  a:active {
+    color: black !important;
+    font-weight: bold;
+
+  }
+
+  .iconMall {
+    background: url("Images/logoMall.png");
+    height: 38px;
+    width: 44px;
+  
+  }
+
+  .iconBab {
+    background: url("Images/logoBab.png");
+    height: 38px;
+    width: 44px;
+  
+  }
+
+  .sizeJ{
+    height: 500px;
+    width: 500px;
+  }
+
+  .card-image-c{
+    weight: 100% !important;
+    height: 100% !important;
+  }
+
+  .card{
+    background-color: 0;
+  }
