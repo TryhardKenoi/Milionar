@@ -1,0 +1,11 @@
+C:\Users\kenoi\source\repos\Milionar\Milionar\bin\Debug\Milionar.exe.config
+C:\Users\kenoi\source\repos\Milionar\Milionar\bin\Debug\Milionar.exe
+C:\Users\kenoi\source\repos\Milionar\Milionar\bin\Debug\Milionar.pdb
+C:\Users\kenoi\source\repos\Milionar\Milionar\obj\Debug\Milionar.csproj.AssemblyReference.cache
+C:\Users\kenoi\source\repos\Milionar\Milionar\obj\Debug\Milionar.csproj.SuggestedBindingRedirects.cache
+C:\Users\kenoi\source\repos\Milionar\Milionar\obj\Debug\Milionar.Form1.resources
+C:\Users\kenoi\source\repos\Milionar\Milionar\obj\Debug\Milionar.Properties.Resources.resources
+C:\Users\kenoi\source\repos\Milionar\Milionar\obj\Debug\Milionar.csproj.GenerateResource.cache
+C:\Users\kenoi\source\repos\Milionar\Milionar\obj\Debug\Milionar.csproj.CoreCompileInputs.cache
+C:\Users\kenoi\source\repos\Milionar\Milionar\obj\Debug\Milionar.exe
+C:\Users\kenoi\source\repos\Milionar\Milionar\obj\Debug\Milionar.pdb
