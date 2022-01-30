@@ -18,6 +18,7 @@ namespace Milionar
         SoundPlayer simpleSound = new SoundPlayer(@"C:\Users\kenoi\source\repos\Milionar\Milionar\Resources\znelka.wav");
         ImageList photoList = new ImageList();
 
+        //hlavni forma
         public Form1()
         {
             photoList.Images.Add(Image.FromFile(@"C:\Users\kenoi\source\repos\Milionar\Milionar\Resources\postup0.jpg"));
